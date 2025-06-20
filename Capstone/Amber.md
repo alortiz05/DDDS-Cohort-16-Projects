@@ -1,1 +1,5 @@
-- stub
+[IMBD Part I](https://github.com/alortiz05/DSBC_Cohort16-Projects/blob/main/3M_IMBD_Data_Pull_Part_I.ipynb)
+[IMBD Part II](https://github.com/alortiz05/DSBC_Cohort16-Projects/blob/main/Model_3M_IMBD_Final_Part_II.ipynb)
+[IMBD Parquet File](https://github.com/alortiz05/DSBC_Cohort16-Projects/blob/main/imdb_ml_data3M.parquet)
+[IMBD Model_Not Optimized](https://github.com/alortiz05/DSBC_Cohort16-Projects/blob/main/my_3Mmodel.keras)
+[IMBD_Model_Optimized](https://github.com/alortiz05/DSBC_Cohort16-Projects/blob/main/my_3Mopt_model.keras)
